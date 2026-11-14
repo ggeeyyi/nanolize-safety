@@ -8,9 +8,10 @@ reach today, with local reproductions and a fix path. Published with GitHub Page
 | English | <https://ggeeyyi.github.io/nanolize-safety/> |
 | Chinese | <https://ggeeyyi.github.io/nanolize-safety/zh/> |
 
-The review covers nanolize `main` at `fe9b3bb` (14 November 2026). File references on the page point into that
-private repository. The findings were open when the page was written; check them against the code before acting on
-them.
+The first review covers nanolize `main` at `fe9b3bb` (14 November 2026). A second pass on 15 November 2026 re-checked
+it at `b96cf37`, after 105 further commits: it adds the status of the first eleven findings, eight new ones (F12 to
+F19) and two more recommendations (R8, R9). File references on the page point into that private repository. The
+findings were open when the page was last updated; check them against the code before acting on them.
 
 ## Layout
 
